@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#78C0E1</color>
+    <color name="purple_500">#65B1EC</color>
+    <color name="purple_700">#63B9F3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="learn_tile">#98CC72</color>
+    <color name="learn_tile_border">#52CF34</color>
+    <color name="learn_hardwood">#E17229</color>
+    <color name="learn_hardwood_border">#FF6328</color>
+    <color name="learn_vinyl">#DD8179</color>
+    <color name="learn_vinyl_border">#FF8585</color>
+    <color name="learn_carpet">#F4BC4C</color>
+    <color name="learn_carpet_border">#FFDF11</color>
+    <color name="works_color">#C1E8B0</color>
+    <color name="works_color_border">#A9F18B</color>
+    <color name="quotes_background">#F8E7B3</color>
+    <color name="quotes_background_border">#F8DC80</color>
+    <color name="navBar">#FAF0D0</color>
+    <color name="topBar">#E1D2A1</color>
+
+</resources>

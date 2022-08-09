@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/drawable/carpet_background.xml" value="0.5453703703703704" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/drawable/hardwood_background.xml" value="0.5453703703703704" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/drawable/navbarbackground.xml" value="0.4317708333333333" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/drawable/quotes_background.xml" value="0.346875" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/drawable/rect_backgrounds.xml" value="0.5453703703703704" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/drawable/vinyl_background.xml" value="0.5453703703703704" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/drawable/works_background.xml" value="0.346875" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/layout/learn_activity.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/layout/my_quotes.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/layout/profile_activity.xml" value="0.264" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/layout/profile_info_activity.xml" value="0.4" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/layout/quote_builder.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/layout/video_item.xml" value="0.264" />
+        <entry key="..\:/Users/Avery/AndroidStudioProjects/QUICKQUOTER/app/src/main/res/xml/provider_paths.xml" value="0.5541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
